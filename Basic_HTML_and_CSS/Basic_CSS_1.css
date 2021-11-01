@@ -1,0 +1,16 @@
+.div-1 {
+	  border: 5px outset red;
+	  background-color: #BDB76B;
+	  text-align: right;
+	  font-family: Arial;
+	  font-size: 17;
+	  color:black;
+	}
+.div-2 {
+	  border: 5px outset red;
+	  background-color: lightblue;
+	  text-align: center;
+	  font-family: Arial;
+	  font-size: 17;
+	  color:black;
+	}
