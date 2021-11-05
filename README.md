@@ -6,7 +6,7 @@ The objective is to cover the exercises of the course and keep them in this repo
 
 ## Links
 
-- [Repo](https://ubcruzl.github.io "<pagian de perfil> Repo")
+- [Repo](https://ubcruzl.github.io "<pagina de perfil> My profile")
 
 ## Screenshots
 
@@ -22,14 +22,14 @@ The proyect ...
 
 ### bootstrap project,
 
-Thisproject
+Thisproject includes movie billboard.
 ### One page website
 
-Launches the test runner in the interactive watch mode.
+Includes a magical town in Mexico, which can be visited at your leisure;
 
 ### student portafolio,
 
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
+includes my own profile in which I explain my available curriculum
 
 ## Built With
 
