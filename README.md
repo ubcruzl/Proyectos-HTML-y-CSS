@@ -6,55 +6,33 @@ The objective is to cover the exercises of the course and keep them in this repo
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
-
-- [Live](<Homepage url> "Live View")
-
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
+- [Repo](https://ubcruzl.github.io "<pagian de perfil> Repo")
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](/Images/principal.png "Home Page")
 
-![](/screenshots/2.png)
+## Proyectos disponibles
 
-![](/screenshots/3.png)
+In the project directory, you can see:
 
-## Available Commands
+### Proyects pets,
 
-In the project directory, you can run:
+The proyect ...
 
-### `npm start" : "react-scripts start"`,
+### bootstrap project,
 
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### `"npm run build": "react-scripts build"`,
-
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
-### `"npm run test": "react-scripts test"`,
+Thisproject
+### One page website
 
 Launches the test runner in the interactive watch mode.
 
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
+### student portafolio,
 
 For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
-
 ## Built With
 
-- JavaScript
-- Node
-- NPM
-- Webpack
 - HTML
 - CSS
 
@@ -64,11 +42,10 @@ For running the server file on you can use this command.
 
 ## Author
 
-**Rohit Jain**
+**Ubaldo Cruz**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Profile](https://ubcruzl.github.io "Ubaldo Cruz L.")
+- [Email](mailto:ubcruzl@gmail.com?subject=Hi "Hi!")
 
 ## 🤝 Support
 
